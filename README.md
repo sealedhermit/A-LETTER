@@ -1,4 +1,4 @@
-# 💌 Interactive Romantic Love Letter
+# 💌 Interactive Letter
 
 An elegant, deeply emotional, and interactive digital love letter built with pure **HTML5, CSS3, and Vanilla JavaScript**. Designed with a soft rose-tinted stationery aesthetic, real-time typewriter typography, gesture-based page swiping, and immersive romantic micro-interactions.
 
